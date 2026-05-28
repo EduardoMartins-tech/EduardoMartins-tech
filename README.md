@@ -65,17 +65,6 @@ Voluntário desde 2020 no **Instituto Produart**, apoiando comunidades carentes 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoMartins-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)](https://github.com/EduardoMartins-tech)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMartins-tech&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/EduardoMartins-tech)
-
-</div>
----
-
 ## 📬 Contato
 
 <div align="center">
